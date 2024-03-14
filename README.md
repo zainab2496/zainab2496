@@ -10,6 +10,8 @@ I am based in the UK, where it always rains and the sun rarely visits!
 
 🖥️ I am learning and developing my skills in the following programming languages:
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,github,linkedin,nodejs,py,react,sqlite,vscode,)](https://skillicons.dev)
+
 🐍 Python
 💻 HTML
 🖱️ CSS
