@@ -22,5 +22,5 @@ I am based in the UK, where it always rains and the sun rarely visits!
 
 You can contact me through:
 
-[![contact detail icons](https://skillicons.dev/icons?i=linkedin,instagram)](https://skillicons.dev)
+[![contact detail icons](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/feed/)
 
