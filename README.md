@@ -15,6 +15,8 @@ I am based in the UK, where it always rains and the sun rarely visits!
 🖱️ CSS
 👩‍💻 JavaScript
 
+# My GitHub Stats Card 📝
+
 [![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainab2496)](https://github.com/zainab2496/github-readme-stats)
 
 
