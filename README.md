@@ -1,4 +1,5 @@
-![Header](file:///Users/zainabalam/HyperionDev%20Bootcamp/BYB%20Tasks/byb_project/White%20Minimalist%20Simple%20Aesthetic%20Name%20Twitter%20Header.png)
+
+![White Minimalist Simple Aesthetic Name Twitter Header (1)](https://github.com/zainab2496/zainab2496/assets/156958180/660bc714-b5fb-464c-a542-9b7c56a0f5c4)
 
 <!--
 **zainab2496/zainab2496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
