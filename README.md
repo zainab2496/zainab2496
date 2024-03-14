@@ -19,5 +19,7 @@ I am based in the UK, where it always rains and the sun rarely visits!
 
 [![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainab2496)](https://github.com/zainab2496/github-readme-stats)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab2496"/>
+
 
 
