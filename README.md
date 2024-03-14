@@ -10,12 +10,7 @@ I am based in the UK, where it always rains and the sun rarely visits!
 
 🖥️ I am learning and developing my skills in the following programming languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,github,linkedin,nodejs,py,react,sqlite,vscode,)](https://skillicons.dev)
-
-🐍 Python
-💻 HTML
-🖱️ CSS
-👩‍💻 JavaScript
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,github,nodejs,py,react,sqlite,vscode,)](https://skillicons.dev)
 
 # My GitHub Stats Card 📝
 
@@ -23,5 +18,8 @@ I am based in the UK, where it always rains and the sun rarely visits!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab2496"/>
 
+# Contact me...
 
+You can contact me through:
+[![contact detail icons](https://skillicons.dev/icons?i=linkedin,instagram&perline=1)](https://skillicons.dev)
 
