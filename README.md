@@ -6,7 +6,7 @@
 My name is Zainab and I am an aspiring software engineer. 
 I am based in the UK, where it always rains and the sun rarely visits!
 
-🎓 Self studying with HyperionDev on their software engineer bootcamp - March 2024
+🎓 Self studying with HyperionDev on their software engineer bootcamp - March 2024 - August 2024
 
 🖥️ I am learning and developing my skills in the following programming languages:
 
